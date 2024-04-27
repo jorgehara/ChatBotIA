@@ -1,7 +1,10 @@
-### CHATBOT Whatsapp (Baileys Provider)
+### CHATBOT Whatsapp con IA
 
+###Si necesitas el tuyo no dudes en contactarme 
+### LinKeIn: (https://www.linkedin.com/in/jorgeharadevs/)
+###📲My WhatsApp (https://wa.me/5493794051686)
 <p align="center">
-  <img width="300" src="https://i.imgur.com/Oauef6t.png">
+  <img width="50" src="https://i.imgur.com/Oauef6t.png">
 </p>
 
 
@@ -18,5 +21,4 @@ npm start
 - [📄 Documentación](https://bot-whatsapp.netlify.app/)
 - [🚀 Roadmap](https://github.com/orgs/codigoencasa/projects/1)
 - [💻 Discord](https://link.codigoencasa.com/DISCORD)
-- [👌 Twitter](https://twitter.com/leifermendez)
 - [🎥 Youtube](https://www.youtube.com/watch?v=5lEMCeWEJ8o&list=PL_WGMLcL4jzWPhdhcUyhbFU6bC0oJd2BR)
