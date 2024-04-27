@@ -1,7 +1,0 @@
-Elegi algunas de estas opciones:
-
-Opción 1 - Menu
-Opción 2 - Turnos
-Opción 3 - Consultas
-
-Opción 0 - Salir
